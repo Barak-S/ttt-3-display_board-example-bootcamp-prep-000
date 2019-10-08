@@ -4,4 +4,7 @@ cell = " | | "
 divider = '-----------'
 puts cell
 puts divider
+puts cell
+puts divider
+puts cell
 end
